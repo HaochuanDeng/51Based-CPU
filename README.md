@@ -11,4 +11,4 @@ This is the structure of the cpu, it is quite simple
 
 You can get all of these files from: https://pan.baidu.com/s/150i1gtuLZjZ2W0RoRwNH4w psw:0v9k
 
-More info please send me email :1054604661@qq.com
+More info please send me an email :1054604661@qq.com
