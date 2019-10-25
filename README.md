@@ -6,6 +6,9 @@ It is composed of 6 main parts,they are A B CODE MAIN RAM PC, and there will be 
 This is what you will see after finishing you work
 ![image](https://github.com/HaochuanDeng/51Bassed-CPU/blob/master/READMEMD/Finished.jpg)
 
+This is the structure of the cpu, it is quite simple
+![image](https://github.com/HaochuanDeng/51Bassed-CPU/blob/master/READMEMD/Discription%20for%20cpu.jpg)
+
 You can get all of these files from: https://pan.baidu.com/s/150i1gtuLZjZ2W0RoRwNH4w psw:0v9k
 
 More info please send me email :1054604661@qq.com
